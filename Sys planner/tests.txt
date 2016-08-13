@@ -1,0 +1,197 @@
+size:  30
+Time taken: 8e-06
+size:  40
+Time taken: 1.2e-05
+size:  50
+Time taken: 1.2e-05
+size:  60
+Time taken: 1.6e-05
+size:  70
+Time taken: 1.8e-05
+size:  80
+Time taken: 2.3e-05
+size:  90
+Time taken: 2.7e-05
+size:  100
+Time taken: 3.5e-05
+size:  110
+Time taken: 5.4e-05
+size:  120
+Time taken: 8.3e-05
+size:  130
+Time taken: 5.4e-05
+size:  140
+Time taken: 6e-05
+size:  150
+Time taken: 6.7e-05
+size:  160
+Time taken: 8e-05
+size:  170
+Time taken: 9.7e-05
+size:  180
+Time taken: 0.000113
+size:  190
+Time taken: 0.00011
+size:  200
+Time taken: 0.000116
+size:  210
+Time taken: 0.000129
+size:  220
+Time taken: 0.000138
+size:  230
+Time taken: 0.000153
+size:  240
+Time taken: 0.000165
+size:  250
+Time taken: 0.000182
+size:  260
+Time taken: 0.000214
+size:  270
+Time taken: 0.000341
+size:  280
+Time taken: 0.000274
+size:  290
+Time taken: 0.000248
+size:  300
+Time taken: 0.000262
+size:  310
+Time taken: 0.000297
+size:  320
+Time taken: 0.000299
+size:  330
+Time taken: 0.000352
+size:  340
+Time taken: 0.000458
+size:  350
+Time taken: 0.000378
+size:  360
+Time taken: 0.00057
+size:  370
+Time taken: 0.000582
+size:  380
+Time taken: 0.000458
+size:  390
+Time taken: 0.001031
+size:  400
+Time taken: 0.000497
+size:  410
+Time taken: 0.000535
+size:  420
+Time taken: 0.000686
+size:  430
+Time taken: 0.000889
+size:  440
+Time taken: 0.00063
+size:  450
+Time taken: 0.000926
+size:  460
+Time taken: 0.000672
+size:  470
+Time taken: 0.000743
+size:  480
+Time taken: 0.000756
+size:  490
+Time taken: 0.000785
+size:  500
+Time taken: 0.001129
+size:  510
+Time taken: 0.000966
+size:  520
+Time taken: 0.000931
+size:  530
+Time taken: 0.001072
+size:  540
+Time taken: 0.001149
+size:  550
+Time taken: 0.001082
+size:  560
+Time taken: 0.001606
+size:  570
+Time taken: 0.001201
+size:  580
+Time taken: 0.00178
+size:  590
+Time taken: 0.00118
+size:  600
+Time taken: 0.001929
+size:  610
+Time taken: 0.001233
+size:  620
+Time taken: 0.00163
+size:  630
+Time taken: 0.001657
+size:  640
+Time taken: 0.001396
+size:  650
+Time taken: 0.002911
+size:  660
+Time taken: 0.00147
+size:  670
+Time taken: 0.001729
+size:  680
+Time taken: 0.001638
+size:  690
+Time taken: 0.002359
+size:  700
+Time taken: 0.001891
+size:  710
+Time taken: 0.001802
+size:  720
+Time taken: 0.002058
+size:  730
+Time taken: 0.001949
+size:  740
+Time taken: 0.002578
+size:  750
+Time taken: 0.003249
+size:  760
+Time taken: 0.002395
+size:  770
+Time taken: 0.003561
+size:  780
+Time taken: 0.00219
+size:  790
+Time taken: 0.002458
+size:  800
+Time taken: 0.005129
+size:  810
+Time taken: 0.004316
+size:  820
+Time taken: 0.002933
+size:  830
+Time taken: 0.00292
+size:  840
+Time taken: 0.00478
+size:  850
+Time taken: 0.004939
+size:  860
+Time taken: 0.003294
+size:  870
+Time taken: 0.003613
+size:  880
+Time taken: 0.004444
+size:  890
+Time taken: 0.004812
+size:  900
+Time taken: 0.003951
+size:  910
+Time taken: 0.003978
+size:  920
+Time taken: 0.004953
+size:  930
+Time taken: 0.00694
+size:  940
+Time taken: 0.004542
+size:  950
+Time taken: 0.004812
+size:  960
+Time taken: 0.00501
+size:  970
+Time taken: 0.006779
+size:  980
+Time taken: 0.005224
+size:  990
+Time taken: 0.00538
+size:  1000
+Time taken: 0.00779
+
